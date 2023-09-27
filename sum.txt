@@ -1,0 +1,10 @@
+Verify the function working correctly given the doc comment:
+     /**
+   * This method is used to add two integers.
+   * @param a This is the first paramter to addNum method
+   * @param b  This is the second parameter to addNum method
+   * @return int This returns sum of a and b.
+   */
+    public static int sum(int a, int b){
+        return a + b;
+    }
